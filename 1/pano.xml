@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.8" apprev="17956" start="node1">
+<tour appversion="6.1.8" apprev="17956" start="node3">
   <panorama id="node1">
     <input leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" width="1024" levelingpitch="0" levelbias="0.400" levelingroll="0" overlap="1">
       <level height="1024" width="1024" predecode="0" preload="0"/>
