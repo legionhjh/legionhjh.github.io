@@ -44,7 +44,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderalpha="1" borderradius="1" height="20" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" background="1" border="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_node" description="gfg" id="Point01" target="" tilt="-2.88" url="{node1}" title="dfd" pan="-186.38"/>
+      <hotspot skinid="ht_node" description="gfg" id="Point01" target="" tilt="-2.9" url="{node1}" title="dfd" pan="-186.31"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomfov="20" zoomoutpause="1" blendtime="1" blendcolor="0x000000" zoomin="0" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1"/>
